@@ -69,4 +69,4 @@ userChanged(user){
 }
 ```
 
-[Complete example](https://github.com/MoezAyadiDev/DartAuthentificationRepository/firebase/example)
+[Complete example](https://github.com/MoezAyadiDev/DartAuthentificationRepository/tree/main/firebase/authentication_repository/example)

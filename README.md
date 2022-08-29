@@ -4,7 +4,7 @@ Inspired from Felix Angelov in [Flutter Firebase Login Tutorial](https://bloclib
 
 Authentication repository is a dart package to handle differents authentication methode.
 
-  - [Firebase](https://github.com/MoezAyadiDev/DartAuthentificationRepository/firebase)
+  - [Firebase](https://github.com/MoezAyadiDev/DartAuthentificationRepository/tree/main/firebase/authentication_repository)
 
 ## Installation
 
